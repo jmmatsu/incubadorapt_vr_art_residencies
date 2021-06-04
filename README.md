@@ -53,4 +53,4 @@ visual presentation: https://github.com/frnvpr/incubadorapt_vr_art_residencies/b
 
 video presentation: https://github.com/frnvpr/incubadorapt_vr_art_residencies/blob/main/video_presentation.md
 
-roadmap: https://prezi.com/i/jn58cdiyjz5z/incubadorapt-dao-roadmap/
+roadmap: https://github.com/frnvpr/incubadorapt_lit_project/blob/main/roadmap.md
