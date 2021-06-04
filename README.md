@@ -49,8 +49,8 @@ Goals:
 
 original gov.near.org proposal post: https://gov.near.org/t/presentation-vr-online-art-residency/1848
 
-visual presentation: 
+visual presentation: https://github.com/frnvpr/incubadorapt_vr_art_residencies/blob/main/visual_presentation.md
 
-video presentation: 
+video presentation: https://github.com/frnvpr/incubadorapt_vr_art_residencies/blob/main/video_presentation.md
 
 roadmap: https://prezi.com/i/jn58cdiyjz5z/incubadorapt-dao-roadmap/
